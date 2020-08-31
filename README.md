@@ -3,8 +3,19 @@ In this repository, I am trying to compile some useful Python libraries for data
 
 
 ## Dataset Description
-URL: https://www.kaggle.com/c/titanic/overview
+1. [Titanic](https://www.kaggle.com/c/titanic/overview)
+2. [Nifty](https://www.kaggle.com/rohanrao/nifty50-stock-market-data?select=MARUTI.csv)
+3. [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data?select=train.csv)
+4. [Twitter](https://www.kaggle.com/c/nlp-getting-started)
 
 
-## Table of content
-1. 
+## Libraries we will learn
+1. dabl(Data Analysis Baseline Library)
+2. missingno
+3. Emot
+4. Flashtext
+5. PyFlux
+6. Bamboolib
+7. AutoViz
+8. Numerizer
+9. ppscore
